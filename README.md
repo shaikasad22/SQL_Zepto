@@ -1,4 +1,4 @@
-**🧩 SQL Project – Zepto_v2 Data Exploration & Analysis**
+**🧩 SQL Project – Zepto Inventory [Data Exploration & Analysis]**
 
 This project focuses on performing SQL-based data exploration, cleaning, and analysis on the zepto_v2 dataset. The dataset represents product information from an e-commerce inventory system similar to Zepto, including categories, prices, discounts, stock levels, and product weights.
 
