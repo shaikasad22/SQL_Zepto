@@ -5,8 +5,8 @@ use zepto
 ALTER TABLE zepto_v2
 ADD COLUMN sku_id INT AUTO_INCREMENT PRIMARY KEY FIRST;
 
---#data exploration
-
+--#data exploration 
+ 
 #count of rows
 select count(*) from zepto_v2
 
